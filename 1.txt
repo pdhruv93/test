@@ -1,2 +1,2 @@
-This is first line for testing
+This is first line for testing. I have changed this line inside feature1 branch.
 This is second line for testing
